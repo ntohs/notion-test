@@ -14,4 +14,4 @@ function greetUser(name) {
   return message;
 }
 
-greetUser("pjaewn");
+```
